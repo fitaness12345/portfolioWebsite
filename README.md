@@ -1,3 +1,3 @@
 ﻿# portfolioWebsite
 
-This is my personal website made using Django framework.
+This is my personal portfolio website made using Django framework.
